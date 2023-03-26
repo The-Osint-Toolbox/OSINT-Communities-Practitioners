@@ -10,6 +10,7 @@
   <li>https://github.com/cipher387</li>
   <li>https://dutchosintguy.com/</li>
   <li>https://hatless1der.com/</li>
+  <li>https://inteltechniques.com/</li>
   <li>https://nixintel.info/</li>
   <li>https://osintcombine.com/</li>
   <li>https://osintcurio.us/</li>
