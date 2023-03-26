@@ -1,6 +1,6 @@
 # <p>OSINT-Practitioners</p>
 
-<p>On this page you will find links to useful, tools, technqiues & tradecraft that have been provided by OSINT-Practitioners</p> 
+<p>On this page you will find links to useful, tools, technqiues & tradecraft, that have been provided by OSINT-Practitioners.</p> 
 <p>List of OSINT Practitioners. Some websites offer paid for services but you will find free content too.</p>
 <ul>
   <li>https://aware-online.com/</li>
