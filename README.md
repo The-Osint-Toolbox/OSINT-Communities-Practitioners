@@ -7,6 +7,7 @@
   <li>https://aware-online.com/</li>
   <li>https://bellingcat.com/</li>
   <li>https://booleanstrings.com/</li>
+  <li>https://cqcore.uk/</li>
   <li>https://github.com/cipher387</li>
   <li>https://dutchosintguy.com/</li>
   <li>https://hatless1der.com/</li>
@@ -14,6 +15,7 @@
   <li>https://nixintel.info/</li>
   <li>https://osintcombine.com/</li>
   <li>https://osintcurio.us/</li>
+  <li>https://osintframework.com/</li>
   <li>https://osintgeek.de/</li>
   <li>https://www.osinttechniques.com/</li>
   <li>https://github.com/Ph055a</li>
