@@ -14,7 +14,7 @@
   <li>https://inteltechniques.com/</li>
   <li>https://nixintel.info/</li>
   <li>https://osintcombine.com/</li>
-  ,li>https://os2int.com/</li>
+  <li>https://os2int.com/</li>
   <li>https://osintcurio.us/</li>
   <li>https://osintdojo.com/</li>
   <li>https://osintframework.com/</li>
