@@ -15,6 +15,7 @@
   <li>https://nixintel.info/</li>
   <li>https://osintcombine.com/</li>
   <li>https://osintcurio.us/</li>
+  <li>https://www.osintdojo.com/</li>
   <li>https://osintframework.com/</li>
   <li>https://osintgeek.de/</li>
   <li>https://www.osinttechniques.com/</li>
