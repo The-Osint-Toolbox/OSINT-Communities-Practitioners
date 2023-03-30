@@ -10,6 +10,7 @@
   <li>https://cqcore.uk/</li>
   <li>https://github.com/cipher387</li>
   <li>https://dutchosintguy.com/</li>
+  <li>https://github.com/GONZOsint</li>
   <li>https://hatless1der.com/</li>
   <li>https://inteltechniques.com/</li>
   <li>https://nixintel.info/</li>
@@ -19,7 +20,7 @@
   <li>https://osintdojo.com/</li>
   <li>https://osintframework.com/</li>
   <li>https://osintgeek.de/</li>
-  <li>https://www.osinttechniques.com/</li>
+  <li>https://osinttechniques.com/</li>
   <li>https://github.com/Ph055a</li>
   <li>https://sector035.nl/</li>
   <li>https://github.com/sinwindie/OSINT</li>
