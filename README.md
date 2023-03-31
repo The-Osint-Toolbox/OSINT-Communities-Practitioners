@@ -10,6 +10,7 @@
   <li>https://cqcore.uk/</li>
   <li>https://github.com/cipher387</li>
   <li>https://dutchosintguy.com/</li>
+  <li>https://www.epcyber.com/</li>
   <li>https://github.com/GONZOsint</li>
   <li>https://hatless1der.com/</li>
   <li>https://inteltechniques.com/</li>
