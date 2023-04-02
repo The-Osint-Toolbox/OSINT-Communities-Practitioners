@@ -32,8 +32,8 @@
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
   <li><a href="https://github.com/sinwindie/OSINT">Sinwindie</a></li>
-  <li><a href="https://www.uk-osint.net/">UK Osint</a></li>
   <li><a href="http://technisette.com/">Technisette</a></li>
+  <li><a href="https://uk-osint.net/">UK Osint</a></li>
   <li><a href="https://webbreacher.com/">Webbreacher</a></li>
   <li><a href="https://whitehatinspector.blogspot.com/">White Hat Inspector</a></li>
 
