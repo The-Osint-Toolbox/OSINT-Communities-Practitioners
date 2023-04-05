@@ -14,6 +14,7 @@
   <li><a href="https://github.com/GONZOsint">Gonzo</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint</a></li>
   <li><a href="https://hatless1der.com/">Hatless1der</a></li>
+  <li><a href="https://i-intelligence.eu/">i-Intelligence</a></li>
   <li><a href="https://inteltechniques.com/">Inteltechniques</a></li>
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <li><a href="https://plessas.net/">Kirbstr</a></li>
