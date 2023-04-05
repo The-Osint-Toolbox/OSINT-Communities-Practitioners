@@ -24,6 +24,7 @@
   <li><a href="https://lorandbodo.com/">Lorand Bodoo</a></li>
   <li><a href="https://keyfindings.blog/">MwOsint</a></li>
   <li><a href="https://nixintel.info/">Nixintel</a></li>
+  <li><a href="https://ohshint.gitbook.io/oh-shint-its-a-blog/">OH Shint</a></li>
   <li><a href="https://osintcombine.com/">Osint Combine</a></li>
   <li><a href="https://os2int.com/">Os2int</a></li>
   <li><a href="https://osintcurio.us/">Osint Curious</a></li>
