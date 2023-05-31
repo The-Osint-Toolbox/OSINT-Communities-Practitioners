@@ -30,6 +30,7 @@
   <li><a href="https://osintcurio.us/">Osint Curious</a></li>
   <li><a href="https://osintdojo.com/">Osint Dojo</a></li>
   <li><a href="https://osintforall.in/">Osint For All</a></li>
+  <li><a href="https://osintfr.com/en/home/">Osintfr</a></li>
   <li><a href="https://osintframework.com/">Osint Framework</a></li>
   <li><a href="https://osintgeek.de/">Osint Geek</a></li>
   <li><a href="https://osinttechniques.com/">Osint Techniques</a></li>
