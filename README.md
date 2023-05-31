@@ -22,6 +22,7 @@
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <li><a href="https://plessas.net/">Kirbstr</a></li>
   <li><a href="https://lorandbodo.com/">Lorand Bodoo</a></li>
+  <li><a href="https://map.malfrats.industries/">Malfrats</a></li>
   <li><a href="https://keyfindings.blog/">MwOsint</a></li>
   <li><a href="https://nixintel.info/">Nixintel</a></li>
   <li><a href="https://ohshint.gitbook.io/oh-shint-its-a-blog/">OH Shint</a></li>
