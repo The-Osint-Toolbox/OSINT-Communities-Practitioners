@@ -25,6 +25,7 @@
   <li><A href="https://intel-inquirer.medium.com/">Intel Inquirer</a></li>
   <li><a href="https://inteltechniques.com/">Inteltechniques</a></li>
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
+  <li><a href="https://github.com/jocephus"> Joe Gray</a></li>
   <li><a href="https://k2sosint.com/">K2sosint</a></li>
   <li><a href="https://plessas.net/">Kirbstr</a></li>
   <li><a href="https://lorandbodo.com/">Lorand Bodoo</a></li>
