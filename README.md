@@ -10,6 +10,7 @@
   </tr>
 </table>
 <ul>
+  <li><a href="https://aaroncti.com/">Aaron Roberts</a></li>
   <li><a href="https://aware-online.com/">Aware-Online</a></li>
   <li><a href="https://bellingcat.com/">Bellingcat</a></li>
   <li><a href="https://benjaminstrick.com/">Benjamin Strick</a></li>
@@ -18,6 +19,7 @@
   <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
   <li><a href="https://dutchosintguy.com/">DutchOsintGuy</a></li>
   <li><a href="https://epcyber.com/">Eva Prokofiev</a></li>
+  <li><a href="https://twitter.com/dralexanders1">Frenchie</a></li>
   <li><a href="https://github.com/GONZOsint">Gonzo</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint</a></li>
   <li><a href="https://hatless1der.com/">Hatless1der</a></li>
@@ -41,11 +43,13 @@
   <li><a href="https://osintfr.com/en/home/">Osintfr</a></li>
   <li><a href="https://osintframework.com/">Osint Framework</a></li>
   <li><a href="https://osintgeek.de/">Osint Geek</a></li>
+  <li><a href="https://osintquest.pl/">OSINT Quest</a></li>
   <li><a href="https://osinttechniques.com/">Osint Techniques</a></li>
   <li><a href="https://www.osintteam.com/">OSINT Team</a></li>
   <li><a href="https://github.com/Ph055a">Ph055a</a></li>
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
+  <li><a href="https://keybase.io/shakirasecurity/">ShakiraSecurity</a></li>
   <li><a href="https://github.com/sinwindie/OSINT">Sinwindie</a></li>
   <li><a href="https://gralhix.com/">Sofia Santos</a></li>
   <li><a href="http://technisette.com/">Technisette</a></li>
@@ -61,8 +65,14 @@
  <ul>
   <li><a href="https://medium.com/@cyb_detective">Cyb Detective</a></li>
   <li><a href="https://goldenowl.medium.com/">Golden Owl</a></li>
+  <li><a href="https://medium.com/@g0rbash">G0rbash</a></li>
+  <li><a href="https://infosecsherpa.medium.com/">InfoSecSherpa</a></li>
+  <li><a href="https://officercia.medium.com/">Officer's Notes</a></li>
+  <li><a href="https://publication.osintambition.org/">OSINT Ambition</a></li>
+  <li><a href="https://medium.com/@ronkaminskyy">Ron Kaminsky</a></li>
   <li><a href="https://osintph.medium.com/">Sigmund Brandstaetter</a></li>
   <li><a href="https://medium.com/@Cyber_siva">Siva Sankar</a></li>
+  <li><a href="https://medium.com/@VEEXH">Veexh</a></li>
  </ul>
 
 
