@@ -67,6 +67,7 @@
   <li><a href="https://goldenowl.medium.com/">Golden Owl</a></li>
   <li><a href="https://medium.com/@g0rbash">G0rbash</a></li>
   <li><a href="https://infosecsherpa.medium.com/">InfoSecSherpa</a></li>
+  <li><a href="https://mariorojaschin.medium.com/">Mario Chinclilla</a></li>
   <li><a href="https://officercia.medium.com/">Officer's Notes</a></li>
   <li><a href="https://publication.osintambition.org/">OSINT Ambition</a></li>
   <li><a href="https://medium.com/@ronkaminskyy">Ron Kaminsky</a></li>
