@@ -78,6 +78,7 @@
   <li><a href="https://osintph.medium.com/">Sigmund Brandstaetter</a></li>
   <li><a href="https://medium.com/@Cyber_siva">Siva Sankar</a></li>
   <li><a href="https://medium.com/@VEEXH">Veexh</a></li>
+  <li><a href="https://medium.com/@w9b3N">Walnut</a></li>
  </ul>
 
 
