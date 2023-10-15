@@ -52,6 +52,7 @@
   <li><a href="https://keybase.io/shakirasecurity/">ShakiraSecurity</a></li>
   <li><a href="https://github.com/sinwindie/OSINT">Sinwindie</a></li>
   <li><a href="https://gralhix.com/">Sofia Santos</a></li>
+  <li><a href="https://soxoj.com/">Soxoj</a></li>
   <li><a href="https://stateofosint.com/">State Of OSINT</a></li>
   <li><a href="http://technisette.com/">Technisette</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
