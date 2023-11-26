@@ -50,6 +50,7 @@
   <li><a href="https://github.com/Ph055a">Ph055a</a></li>
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
+  <li><a href="https://seintpl.github.io/">Seintpl</a></li>
   <li><a href="https://keybase.io/shakirasecurity/">ShakiraSecurity</a></li>
   <li><a href="https://github.com/sinwindie/OSINT">Sinwindie</a></li>
   <li><a href="https://gralhix.com/">Sofia Santos</a></li>
