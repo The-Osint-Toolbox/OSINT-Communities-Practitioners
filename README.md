@@ -1,4 +1,7 @@
 # OSINT-Practitioners
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
 <p>On this page you will find links to useful, tools, technqiues & tradecraft, that have been provided by OSINT-Practitioners.</p> 
 <p>Some websites offer paid for services but you will find free content too.</p>
 <p>You will find that OSINT Practitioners have areas of speciality, Nixintel is very good at Geolocation & Website OSINT. Sector035 is also very good at Geolocation as well as the more technical side of OSINT. Technisette is very good at Facebook & Snapchat. DutchOsintGuy is very good at finding people. Webbreacher is very good at building OSINT tools and has a vast knowledge across a wide range of OSINT due to his background in training. So choose wisely my friends.
