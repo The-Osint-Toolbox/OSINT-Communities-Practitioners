@@ -70,6 +70,7 @@
 </table>
  <ul>
   <li><a href="https://medium.com/@cyb_detective">Cyb Detective</a></li>
+  <li><a href="https://blog.netrunner.lol/">CyberRaya</a></li>
   <li><a href="https://goldenowl.medium.com/">Golden Owl</a></li>
   <li><a href="https://medium.com/@g0rbash">G0rbash</a></li>
   <li><a href="https://medium.com/@ibederov_en">Igor S. Bederov</a></li>
