@@ -58,6 +58,7 @@
   <li><a href="https://gralhix.com/">Sofia Santos</a></li>
   <li><a href="https://soxoj.com/">Soxoj</a></li>
   <li><a href="https://stateofosint.com/">State Of OSINT</a></li>
+  <li><a href="https://start.me/p/ME7aRA/oosint">SnoopGhost</a></li>
   <li><a href="http://technisette.com/">Technisette</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/C3n7ral051nt4g3ncy">Tactical Osint</a></li>
