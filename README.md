@@ -15,6 +15,7 @@
 <ul>
   <li><a href="https://aaroncti.com/">Aaron Roberts</a></li>
   <li><a href="https://aware-online.com/">Aware-Online</a></li>
+  <li><a href="https://linktr.ee/bashinho">Bashinho</a></li>
   <li><a href="https://bellingcat.com/">Bellingcat</a></li>
   <li><a href="https://benjaminstrick.com/">Benjamin Strick</a></li>
   <li><a href="https://booleanstrings.com/">Booleam Strings</a></li>
