@@ -30,6 +30,7 @@
   <li><a href="https://i-intelligence.eu/">i-Intelligence</a></li>
   <li><A href="https://intel-inquirer.medium.com/">Intel Inquirer</a></li>
   <li><a href="https://inteltechniques.com/">Inteltechniques</a></li>
+  <li><a href="https://github.com/IvanGlinkin">Ivan Glinkin</a></li>
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <li><a href="https://github.com/jocephus"> Joe Gray</a></li>
   <li><a href="https://k2sosint.com/">K2sosint</a></li>
