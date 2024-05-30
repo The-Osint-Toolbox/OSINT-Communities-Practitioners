@@ -65,6 +65,7 @@
   <li><a href="http://technisette.com/">Technisette</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/C3n7ral051nt4g3ncy">Tactical Osint</a></li>
+  <li><a href="https://www.osint.uk/">UK OSINT Community</a></li>
   <li><a href="https://uk-osint.net/">UK Osint</a></li>
   <li><a href="https://webbreacher.com/">Webbreacher</a></li>
   <li><a href="https://whitehatinspector.blogspot.com/">White Hat Inspector</a></li>
