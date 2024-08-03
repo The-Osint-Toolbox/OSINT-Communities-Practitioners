@@ -1,6 +1,6 @@
 # OSINT-Practitioners
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>On this page you will find links to useful, tools, technqiues & tradecraft, that have been provided by OSINT-Practitioners.</p> 
 <p>Some websites offer paid for services but you will find free content too.</p>
@@ -20,7 +20,7 @@
   <li><a href="https://benjaminstrick.com/">Benjamin Strick</a></li>
   <li><a href="https://booleanstrings.com/">Booleam Strings</a></li>
   <li><a href="https://cqcore.uk/">Cqcore</a></li>
-  <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
+  <li><a href="https://cybdetective.com/">Cyber Detective</a></li>
   <li><a href="https://dutchosintguy.com/">DutchOsintGuy</a></li>
   <li><a href="https://epcyber.com/">Eva Prokofiev</a></li>
   <li><a href="https://twitter.com/dralexanders1">Frenchie</a></li>
