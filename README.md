@@ -12,11 +12,12 @@
   </tr>
 </table>
 <ul>
-  <li><a href="https://osintfr.com/">Belgian OSINT Community</a></li>
-  <li><a href="https://osintfr.com/">French OSINT Community</a></li>
-  <li><a href="https://osintswitzerland.ch/">Switz OSINT Community</a></li>
-  <li><a href="https://www.osint.uk/">UK OSINT Community</a></li>
+  <li><a href="https://osintfr.com/">Belgian OSINT Community</a></li>
+  <li><a href="https://osintfr.com/">French OSINT Community</a></li>
+  <li><a href="https://osintswitzerland.ch/">Switz OSINT Community</a></li>
+  <li><a href="https://www.osint.uk/">UK OSINT Community</a></li>
 </ul>
+<br/>
 <p>List of OSINT Practitioners and Medium Blogs.</p>
 <table>
   <tr>
