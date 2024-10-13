@@ -65,6 +65,7 @@
   <li><a href="https://osintquest.pl/">OSINT Quest</a></li>
   <li><a href="https://osinttechniques.com/">Osint Techniques</a></li>
   <li><a href="https://www.osintteam.com/">OSINT Team</a></li>
+  <li><a href="https://medium.com/@practicalosint">OSINT To Educate</a></li>
   <li><a href="https://github.com/Ph055a">Ph055a</a></li>
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
