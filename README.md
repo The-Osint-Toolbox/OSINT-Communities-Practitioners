@@ -68,6 +68,7 @@
   <li><a href="https://medium.com/@practicalosint">OSINT To Educate</a></li>
   <li><a href="https://github.com/Ph055a">Ph055a</a></li>
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
+  <li><a href="https://www.osint.al/">Sara OSINT</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
   <li><a href="https://keybase.io/shakirasecurity/">ShakiraSecurity</a></li>
   <li><a href="https://github.com/sinwindie/OSINT">Sinwindie</a></li>
