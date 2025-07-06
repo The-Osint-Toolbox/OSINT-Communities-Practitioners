@@ -62,6 +62,7 @@
   <li><a href="https://osintfr.com/en/home/">Osintfr</a></li>
   <li><a href="https://osintframework.com/">Osint Framework</a></li>
   <li><a href="https://osintgeek.de/">Osint Geek</a></li>
+  <li><a href="https://osint.link/">OSINT Link</a></li>
   <li><a href="https://osintquest.pl/">OSINT Quest</a></li>
   <li><a href="https://osinttechniques.com/">Osint Techniques</a></li>
   <li><a href="https://www.osintteam.com/">OSINT Team</a></li>
