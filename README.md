@@ -40,6 +40,7 @@
   <li><a href="https://github.com/GONZOsint">Gonzo</a></li>
   <li><a href="https://twitter.com/Harisfromcyber">Haris Qazi</a></li>
   <li><a href="https://hatless1der.com/">Hatless1der</a></li>
+  <li><a href="https://indicator.media/">Indicator</a></li>
   <li><a href="https://i-intelligence.eu/">i-Intelligence</a></li>
   <li><A href="https://intel-inquirer.medium.com/">Intel Inquirer</a></li>
   <li><a href="https://inteltechniques.com/">Inteltechniques</a></li>
