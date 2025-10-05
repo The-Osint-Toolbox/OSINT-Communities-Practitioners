@@ -34,6 +34,7 @@
   <li><a href="https://booleanstrings.com/">Booleam Strings</a></li>
   <li><a href="https://cqcore.uk/">Cqcore</a></li>
   <li><a href="https://cybdetective.com/">Cyber Detective</a></li>
+  <li><a href="https://gitlab.com/DanaXScully/onion_links">Dana X Scully</a></li> 
   <li><a href="https://dutchosintguy.com/">DutchOsintGuy</a></li>
   <li><a href="https://epcyber.com/">Eva Prokofiev</a></li>
   <li><a href="https://twitter.com/dralexanders1">Frenchie</a></li>
