@@ -46,9 +46,6 @@
   <li><a href="https://www.osinthandbook.com/">i-Intelligence OSINT Handbook</a></li>
   <li><A href="https://intel-inquirer.medium.com/">Intel Inquirer</a></li>
   <li><a href="https://inteltechniques.com/">Inteltechniques</a></li>
-  <li><a href="https://github.com/IvanGlinkin">Ivan Glinkin</a></li>
-  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
-  <li><a href="https://github.com/jocephus"> Joe Gray</a></li>
   <li><a href="https://k2sosint.com/">K2sosint</a></li>
   <li><a href="https://plessas.net/">Kirbstr</a></li>
   <li><a href="https://lorandbodo.com/">Lorand Bodoo</a></li>
@@ -70,7 +67,6 @@
   <li><a href="https://osinttechniques.com/">Osint Techniques</a></li>
   <li><a href="https://www.osintteam.com/">OSINT Team</a></li>
   <li><a href="https://medium.com/@practicalosint">OSINT To Educate</a></li>
-  <li><a href="https://github.com/Ph055a">Ph055a</a></li>
   <li><a href="https://raebaker.net/blog">Rae Baker</a></li>
   <li><a href="https://www.osint.al/">Sara OSINT</a></li>
   <li><a href="https://sector035.nl/">Sector035</a></li>
@@ -81,8 +77,6 @@
   <li><a href="https://stateofosint.com/">State Of OSINT</a></li>
   <li><a href="https://start.me/p/ME7aRA/oosint">SnoopGhost</a></li>
   <li><a href="http://technisette.com/">Technisette</a></li>
-  <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
-  <li><a href="https://github.com/C3n7ral051nt4g3ncy">Tactical Osint</a></li>
   <li><a href="https://uk-osint.net/">UK Osint</a></li>
   <li><a href="https://osintbox.shellwriter.com/">Vikram</a></li>
   <li><a href="https://webbreacher.com/">Webbreacher</a></li>
