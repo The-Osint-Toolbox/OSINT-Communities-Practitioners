@@ -103,6 +103,7 @@
   <li><a href="https://medium.com/@Cyber_siva">Siva Sankar</a></li>
   <li><a href="https://medium.com/@VEEXH">Veexh</a></li>
   <li><a href="https://medium.com/@w9b3N">Walnut</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
  </ul>
 
 
